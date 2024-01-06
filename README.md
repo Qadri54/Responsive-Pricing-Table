@@ -1,2 +1,3 @@
-# Responsive-Pricing-Table
-Responsive Pricing Table using html and css
+# Responsive web design
+Using tailwind and vanilla css
+
